@@ -1,0 +1,15 @@
+.cuadradito {
+	background-color: #D9D9D9; 
+	padding: 6px 6px;
+	border-radius: 5px;
+}
+
+.lista {
+	margin-top: 20px;
+	color: #858585;
+}
+
+p {
+	margin-left: 250px;
+	color: #000000;
+}
